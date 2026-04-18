@@ -77,7 +77,7 @@ Analyzed 39,536 San Francisco restaurant health inspection records from 2016 to 
 
 ## SQL Queries
 
-All queries were written and executed in **Google BigQuery**. See [`queries.sql`](queries.sql) for the full code.
+All queries were written and executed in **Google BigQuery**. See ('Queries.SQL') for the full code.
 
 | Query | Description |
 |-------|-------------|
