@@ -35,7 +35,7 @@ Analyzed 39,536 San Francisco restaurant health inspection records from 2016 to 
 ### 2. Top 15 Most Common Violations
 > Citation counts across all inspections from 2016–2019.
 
-![Top Violations](charts/chart2_violations.png)
+![Top Violations](Charts/ViolationCount.png)
 
 ---
 
