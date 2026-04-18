@@ -49,7 +49,7 @@ Analyzed 39,536 San Francisco restaurant health inspection records from 2016 to 
 ### 4. Top 15 Highest Risk Businesses
 > Restaurants with 3 or more inspections and an average score below 75, ranked by avg score.
 
-![High Risk](charts/chart4_high_risk.png)
+![High Risk](Charts/LowestPerfomers.png)
 
 ---
 
