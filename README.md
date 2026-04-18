@@ -42,7 +42,7 @@ Analyzed 39,536 San Francisco restaurant health inspection records from 2016 to 
 ### 3. Citywide Inspection Score Trend (2016–2019)
 > Average score across all SF restaurants by year.
 
-![Score Trend](charts/chart3_trends.png)
+![Score Trend](Charts/InspectionTrends.png)
 
 ---
 
