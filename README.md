@@ -92,9 +92,6 @@ All queries were written and executed in **Google BigQuery**. See Queries.SQL fo
 
 ```
 sf-restaurant-analysis/
-├── README.md
-├── queries.sql
-├── sf_restaurant_analysis.xlsx
 ├── charts/
 │   ├── chart1_zip_scores.png
 │   ├── chart2_violations.png
@@ -105,6 +102,10 @@ sf-restaurant-analysis/
     ├── query2_violations.csv
     ├── query3_trends.csv
     └── query4_high_risk.csv
+├── queries.sql
+├── README.md
+├── sf_restaurant_analysis.xlsx
+
 ```
 
 ---
