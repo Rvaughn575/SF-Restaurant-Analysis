@@ -28,7 +28,7 @@ Analyzed 39,536 San Francisco restaurant health inspection records from 2016 to 
 ### 1. Average Inspection Score by Zip Code
 > Zip codes ranked lowest to highest. Scores below 85 are highlighted in red.
 
-![Score by Zip](charts/chart1_zip_scores.png)
+![Score by Zip](Charts/ScoreDistributionByZip.png)
 
 ---
 
